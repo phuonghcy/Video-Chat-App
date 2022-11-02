@@ -5,8 +5,7 @@
 ## SOURCE
 * **https://www.youtube.com/watch?v=oxFr7we3LC8&t=974s**
 
-
-## SINH VIÊN THỰC HIỆN
+## NGƯỜI THỰC HIỆN
 Kim Phương
 
 ## CÁC CÔNG NGHỆ SỬ DỤNG
